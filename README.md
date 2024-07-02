@@ -1,1 +1,1 @@
-I love leetcode
+Try to solve all of Neetcode 150 roadmap first.
